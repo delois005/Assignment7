@@ -53,9 +53,10 @@ A dendrogram was used to visualize cluster formation and evaluate group structur
 
 ## Files
 
-- `Assignment7.ipynb` – Complete analysis notebook
-- `wine-clustering.csv` – Dataset used for clustering
-- `README.md` – Project documentation
+- `Assignment7.ipynb` – Complete Jupyter notebook containing all code, visualizations, and interpretations.
+- `Assignment7 - JupyterLab.pdf` – PDF export of the completed notebook for easy review.
+- `wine-clustering.csv` – Wine Clustering dataset used for PCA and clustering analyses.
+- `README.md` – Project documentation and summary of methods, results, and references.
 
 ## References
 
