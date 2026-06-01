@@ -69,7 +69,3 @@ Ding, C., & He, X. (2004). K-means clustering via principal component analysis. 
 ## Author
 
 Delois Sistrunk
-
-Course: [Course Name]
-
-Semester: [Term]
